@@ -1,4 +1,6 @@
-# Keep-Running-With-Friends 使用说明书
+# Keep-Running-With-Friends
+
+![](https://www.png8.com/imgs/2021/06/d77577c946445223.gif)
 
 > 基于C++的OpenGL程序，cmake的源代码为除Release文件夹之外的文件. 可执行程序在Release文件夹中，下载后可直接运行. 本项目版权所有，请勿翻版. 
 
